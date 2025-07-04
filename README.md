@@ -15,7 +15,7 @@ These projects are built as part of my learning journey with Docker, container o
 
 ## Credits
 
-Many of these project setups are inspired by and based on tutorials from [JavaScript Mastery]. 
+Many of these project setups are inspired by and based on tutorials from [JavaScript Mastery](https://www.youtube.com/watch?v=GFgJkfScVNU&t=1s).
 
 
 ## License
