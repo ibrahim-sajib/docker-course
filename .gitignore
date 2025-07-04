@@ -1,0 +1,51 @@
+# Node.js dependencies
+**/node_modules/
+
+# Laravel (PHP) dependencies
+**/vendor/
+
+# environment files
+**/.env
+**/.env.*
+**/.env.backup
+**/.env.local
+**/.env.production
+
+# Laravel caches
+**/storage/*.key
+**/public/storage
+**/public/hot
+**/public/build
+
+# PHP Unit test cache
+**/.phpunit.result.cache
+
+# IDE or editor folders
+**/.idea/
+**/.vscode/
+**/.fleet/
+**/.DS_Store
+
+# Log files
+**/*.log
+**/npm-debug.log
+**/yarn-error.log
+
+# Docker related
+**/.dockerignore
+
+# Next.js build output
+**/.next/
+**/.vercel/
+
+# Vite
+**/dist/
+**/.vite/
+
+# React
+**/build/
+
+# Misc
+**/coverage/
+**/tmp/
+**/.cache/
